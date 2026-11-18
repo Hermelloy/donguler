@@ -4,16 +4,18 @@ import java.util.Scanner;
 public class Soru03_CarpimTablosu {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        // TODO: Girdileri alın
-
-        // TODO: Girdileri kontrol edin (hatalı giriş / sınır durumları)
-
-        // TODO: Karar yapısını ve/veya döngüyü yazın
-
-        // TODO: Sonucu ekrana yazdırın
-
-        scanner.close();
-    }
+        Scanner sc = new Scanner(System.in);
+        System.out.println("sayi giriniz");
+        int sayi =sc.nextInt();
+      
+        for (int i = 1; i <=10; i++) {
+            System.out.println(i+"x"+sayi+"="+i*sayi);
+        }
+            
+           scanner.close();
+            
+            }
 }
+
+        
+    
