@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Soru02_CiftTekToplam {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
            System.out.println("sayi giriniz");
         int sayi =sc.nextInt();
         int cToplam = 0;
