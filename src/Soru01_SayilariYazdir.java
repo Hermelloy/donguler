@@ -16,9 +16,11 @@ public class Soru01_SayilariYazdir {
         // TODO: Sonucu ekrana yazdırın
  System.out.println(i);
 
+         }
+
                scanner.close();
             
-        }
+        
     }
 }
         
