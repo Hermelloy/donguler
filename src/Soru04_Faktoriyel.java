@@ -4,16 +4,25 @@ import java.util.Scanner;
 public class Soru04_Faktoriyel {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        // TODO: Girdileri alın
-
-        // TODO: Girdileri kontrol edin (hatalı giriş / sınır durumları)
-
-        // TODO: Karar yapısını ve/veya döngüyü yazın
-
-        // TODO: Sonucu ekrana yazdırın
-
-        scanner.close();
+        Scanner sc = new Scanner(System.in);
+        System.out.println("sayi giriniz");
+        int sayi =sc.nextInt();
+        int f = 1;
+      
+         
+        for (int i = 1; i <=sayi; i++) {
+            f=i*f;
+          
+            
+             }System.out.println("girdiginiz sayinin fakotryeli:"+ f);
+        
+           scanner.close();
     }
 }
+
+
+ 
+
+        
+    
+
