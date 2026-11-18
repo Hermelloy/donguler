@@ -7,13 +7,20 @@ public class Soru01_SayilariYazdir {
         Scanner scanner = new Scanner(System.in);
 
         // TODO: Girdileri alın
-
+   System.out.println("sayi giriniz");
+        int sayi =sc.nextInt();
         // TODO: Girdileri kontrol edin (hatalı giriş / sınır durumları)
 
         // TODO: Karar yapısını ve/veya döngüyü yazın
-
+         for (int i = 1; i <=sayi; i++) {
         // TODO: Sonucu ekrana yazdırın
+ System.out.println(i);
 
-        scanner.close();
+               scanner.close();
+            
+        }
     }
 }
+        
+    
+
