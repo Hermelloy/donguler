@@ -10,13 +10,13 @@ Her soru için en az 2 test yazın.
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
 |5|1,2,3,4|1,2,3,4|
-| | | |
+|8|1,2,3,4,5,6,7|1,2,3,4,5,6,7|
 
 ## Soru 2: Çift ve Tek Sayıların Toplamı
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
+|| | |
 | | | |
 
 ## Soru 3: Çarpım Tablosu
