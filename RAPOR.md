@@ -68,47 +68,47 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|6 |720|720 |
+|5 |120 |120 |
 
 ## Soru 5: Sayının Basamaklarını Bulma
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|3995 | 4|4|
+|843 | 3| 3|
 
 ## Soru 6: Sayıyı Ters Çevirme
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+| 487|784 |784 |
+|9764 |4679 | 4679|
 
 ## Soru 7: Asal Sayı Kontrolü
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+| 2|sayi asaldir | sayi asaldir|
+|91 |sayi asal degildir |sayi asal degildir|
 
 ## Soru 8: Tahmin Oyunu
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|87|daha yuksek bir sayi girin|daha yuksek bir sayi girin |
+|123 |daha dusuk bir sayi girin |daha dusuk bir sayi girin |
 
 ## Soru 9: Sayıların Ortalaması
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|2,-21,0,32,21,0,-30,4,28,12 |4.8,Verilen dizide 6 pozitif, 2 negatif ve 2 sıfır bulunmaktadır. |4.8,Verilen dizide 6 pozitif, 2 negatif ve 2 sıfır bulunmaktadır. |
+|5,98,-102,0,87,76,-25,13,12,0 |Verilen 10 sayının aritmetik ortalaması 16,4'tür ve dizide 6 pozitif, 2 negatif, 2 sıfır bulunmaktadır. |Verilen 10 sayının aritmetik ortalaması 16,4'tür ve dizide 6 pozitif, 2 negatif, 2 sıfır bulunmaktadır. |
 
 ## Soru 10: Menü Tabanlı İşlem Programı
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
-| | | |
+|1,5|25 |25 |
+|5 | gorusuruz|gorusuruz |
