@@ -1,7 +1,7 @@
 # Rapor
 
-**Ad Soyad:**
-**Numara:**
+**Bilgekağan Okuducu**
+**698**
 
 Her soru için en az 2 test yazın.
 
@@ -9,7 +9,7 @@ Her soru için en az 2 test yazın.
 
 | Girdi | Beklenen çıktı | Programın çıktısı |
 |---|---|---|
-| | | |
+|5|1,2,3,4|1,2,3,4|
 | | | |
 
 ## Soru 2: Çift ve Tek Sayıların Toplamı
