@@ -5,14 +5,16 @@ public class Soru06_SayiyiTersCevir {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        // TODO: Girdileri alın
-
-        // TODO: Girdileri kontrol edin (hatalı giriş / sınır durumları)
-
-        // TODO: Karar yapısını ve/veya döngüyü yazın
-
-        // TODO: Sonucu ekrana yazdırın
+        System.out.println("sayi giriniz");
+        int sayi = sc.nextInt();
+        int gecici = sayi;
+        int ters=0;
+        while (gecici!=0) {
+            int sBasamak=gecici%10;
+            ters=ters*10+sBasamak;
+            gecici=gecici/10;
+  
+        }System.out.println(ters);
 
         scanner.close();
     }
