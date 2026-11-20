@@ -4,16 +4,25 @@ import java.util.Scanner;
 public class Soru07_AsalSayi {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-
-        // TODO: Girdileri alın
-
-        // TODO: Girdileri kontrol edin (hatalı giriş / sınır durumları)
-
-        // TODO: Karar yapısını ve/veya döngüyü yazın
-
-        // TODO: Sonucu ekrana yazdırın
+        Scanner sc = new Scanner(System.in);
+        System.out.println("sayi giriniz");
+        int sayi = sc.nextInt();
+        boolean asal = true;
+        if (sayi<=1){asal=false;
+        }else{
+            for (int i = 2; i < sayi; i++) {
+                if (sayi%i==0){asal=false;
+                }
+            
+        }
+     
+    }if (asal==true){System.out.println("sayi asaldir");
+    } else{System.out.println("sayi asal degildir");
+            
+            
+    
+         }
 
         scanner.close();
-    }
-}
+      }
+   }
